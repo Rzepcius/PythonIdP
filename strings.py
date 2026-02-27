@@ -1,3 +1,8 @@
+msg = "Good bye world"
+print(msg)
+msg = "I'm dead"
+print(msg)
+print(msg.title())
 firstName = "John"
 lastName = "Doe"
 fullName = f"{firstName} {lastName}"
